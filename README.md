@@ -1,0 +1,2 @@
+# sick-javasc
+learning javascript
